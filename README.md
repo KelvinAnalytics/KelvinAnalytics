@@ -42,9 +42,8 @@ I'm a Data Analyst and AI Developer currently working at Remotasks USA, speciali
 
 ## 📫 Connect With Me
 - **Email**: kelvinkariukikk47@gmail.com
-- **LinkedIn**: [Add your LinkedIn URL]
-- **Portfolio**: [Add your portfolio URL]
-- **Location**: Nyeri, Kenya
+- #0713762083
+- **Location**: Kenya
 
 ## 🎯 2025 Goals
 - Contribute to 5+ open-source data science projects
