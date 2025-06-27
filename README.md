@@ -15,7 +15,7 @@ I'm a Data Analyst and AI Developer currently working at Remotasks USA, speciali
 - **Tools**: Jupyter, Git, AWS, Docker
 - **Databases**: PostgreSQL, MySQL, MongoDB
 
-## 🌱 Currently Learning
+## 🌱 Currently Practicing
 - Advanced Machine Learning techniques with PyTorch
 - Natural Language Processing for text analysis
 - Cloud-based data engineering on AWS
